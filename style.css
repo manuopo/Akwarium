@@ -1,2 +1,8 @@
-.ryba {
+
+.ryba ::before{
+  content: "🐟";
+}
+
+.roslina ::before{
+  content: "🌿";
 }
